@@ -1,0 +1,1 @@
+Code and slides for my JavaDay Riga 2013 talk "10 years of Groovy!"
